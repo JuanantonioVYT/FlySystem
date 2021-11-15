@@ -1,0 +1,5 @@
+name: FlySystem
+api: 3.0.0
+main: Fly\Main
+version: 1.0
+author: JuanantonioVYT
